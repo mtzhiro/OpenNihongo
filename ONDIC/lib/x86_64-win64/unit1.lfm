@@ -1,0 +1,90 @@
+object Form1: TForm1
+  Left = 683
+  Height = 487
+  Top = 162
+  Width = 811
+  Caption = 'Form1'
+  ClientHeight = 487
+  ClientWidth = 811
+  OnCreate = FormCreate
+  LCLVersion = '2.0.4.0'
+  object Edit1: TEdit
+    Left = 41
+    Height = 21
+    Top = 27
+    Width = 338
+    ParentFont = False
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Button1: TButton
+    Left = 389
+    Height = 25
+    Top = 27
+    Width = 75
+    Caption = 'Search'
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Memo1: TMemo
+    Left = 37
+    Height = 383
+    Top = 69
+    Width = 726
+    Lines.Strings = (
+      'Memo1'
+    )
+    OnChange = Memo1Change
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Button2: TButton
+    Left = 683
+    Height = 25
+    Top = 27
+    Width = 75
+    Caption = 'Dictionary'
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 3
+  end
+  object Label1: TLabel
+    Left = 475
+    Height = 13
+    Top = 32
+    Width = 48
+    Caption = 'Dictionary'
+    Color = 16777088
+    ParentColor = False
+    ParentFont = False
+    Transparent = False
+  end
+  object Label2: TLabel
+    Left = 533
+    Height = 13
+    Top = 32
+    Width = 38
+    Caption = 'name...'
+    ParentColor = False
+    ParentFont = False
+    OnClick = Label2Click
+  end
+  object Label3: TLabel
+    Left = 464
+    Height = 15
+    Top = 459
+    Width = 212
+    Caption = 'https://nihongochat.com/opennihongo'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlue
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsUnderline]
+    ParentColor = False
+    ParentFont = False
+    OnClick = Label3Click
+  end
+end

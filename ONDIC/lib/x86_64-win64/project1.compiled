@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\tool\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325662982"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -WG -l -vewnhibq -FiC:\st\workspace\ONDIC\lib\x86_64-win64 -FuC:\tool\lazarus\components\rtticontrols\lib\x86_64-win64\win32 -FuC:\tool\lazarus\components\ideintf\units\x86_64-win64\win32 -FuC:\tool\lazarus\components\lazcontrols\lib\x86_64-win64\win32 -FuC:\tool\lazarus\lcl\units\x86_64-win64\win32 -FuC:\tool\lazarus\lcl\units\x86_64-win64 -FuC:\tool\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\tool\lazarus\packager\units\x86_64-win64 -FuC:\st\workspace\ONDIC\ -FUC:\st\workspace\ONDIC\lib\x86_64-win64\ -FEC:\st\workspace\ONDIC\ -oC:\st\workspace\ONDIC\project1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
