@@ -7,7 +7,7 @@ Official site https://home.nihongochat.com/?OpenNihongo/OnDic
 
 # Licence
 
-GNU GP: 2.0
+GNU GPL 2.0
 
 # Screenshot
 
