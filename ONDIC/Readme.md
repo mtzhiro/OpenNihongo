@@ -9,6 +9,10 @@ Official site https://home.nihongochat.com/?OpenNihongo/OnDic
 
 GNU GP: 2.0
 
+# Screenshot
+
+https://github.com/mtzhiro/OpenNihongo/blob/master/ONDIC/ONDIC00.png
+
 # (Computer) Language
 
 Lazurus ~ Free Pascal (GUI)
